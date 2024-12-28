@@ -59,7 +59,7 @@ Já o modelo híbrido apresentou uma curva de aprendizado interessante, se aprox
 Abaixo a tabela demonstrativa dos resultados.
 
 Alternativa   | MSE | MAE | Tempo 
-    --- | --- | --- | --- 
+--- | --- | --- | --- 
 4.1:    | 142342.4062 | 20.8610  | 99.2 
 4.2:	| 267047425644105139054740242432.0000 | 269140484947968.0000	| 307.7
 4.3:	| 697217.4375	| 87.6634	| 3570.7
